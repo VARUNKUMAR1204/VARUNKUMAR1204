@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunkumar1204&label=Profile%20views&color=0e75b6&style=flat" alt="varunkumar1204" /> </p>
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Codeing-gif" align="right" width="280">
+
 - 🌱 I’m currently learning **Web Development and DSA**
 
 - 🤝 I’m looking for help **knowing about Open Source**
